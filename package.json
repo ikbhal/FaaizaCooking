@@ -22,6 +22,10 @@
   },
   "homepage": "https://github.com/ikbhal/FaaizaCooking#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "pug": "^2.0.0-rc.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.0"
   }
 }
