@@ -20,6 +20,13 @@ app.get('/faaiza1', function(req, res){
   res.render('index', {title:'Faaiza Cooking'});
 });
 
+app.post('/video', function(req, res){
+  //res.render('video_form', {title: 'Create Video'});
+  res.send("add video");
+});
+
+app.post('/video')
+
 var server = app.listen(8081, function () {
 
    var host = server.address().address
