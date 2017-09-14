@@ -1,0 +1,27 @@
+{
+  "name": "faaiza-cooking",
+  "version": "1.0.0",
+  "description": "Faaiza Cooking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikbhal/FaaizaCooking.git"
+  },
+  "keywords": [
+    "Faaiza",
+    "Cooking",
+    "Videos"
+  ],
+  "author": "Shaik Ikbhal Basha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ikbhal/FaaizaCooking/issues"
+  },
+  "homepage": "https://github.com/ikbhal/FaaizaCooking#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
